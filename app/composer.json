@@ -1,0 +1,14 @@
+{
+    "name": "hilioski/macedonian-fuel-prices-crawler",
+    "type": "project",
+    "description": "Macedonian fuel prices crawler.",
+    "keywords": [
+        "fuel",
+        "crawler",
+        "macedonian"
+    ],
+    "license": "MIT",
+    "require": {
+        "spatie/crawler": "^4.7"
+    }
+}
