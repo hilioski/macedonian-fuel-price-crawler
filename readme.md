@@ -12,7 +12,8 @@
 ## Извршување на скриптата
 1) `docker-compose exec php-nginx bash`
 2) `cd /app`
-3) `php index.php`
+3) `composer install`
+4) `php index.php`
 
 или
 
